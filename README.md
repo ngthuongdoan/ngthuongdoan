@@ -11,7 +11,7 @@
 ##### BIO
 
 - 🏢 I'm currently study at Can Tho University, and looking for jobs in JS ecosystem.
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.scss`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.scss`, `.vue`, `.ts`
 - 🌍 I'm mostly active within the **VueJS Community**
 - 🌱 Learning all about **JS ecosystem**
 - 💬 Ping me about **ui/ux design**, **web development**
