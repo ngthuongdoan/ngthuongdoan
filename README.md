@@ -3,9 +3,10 @@
 
 ##### NOW
 
-- 🌐 My Personal Website (still in progress) [ngthuongdoan](https://ngthuongdoan.com)
+- 🌐 My Personal Website [ngthuongdoan](https://ngthuongdoan.com)
 - 🆘 Front end Developer of college project [Unicorn Helpdesk](https://unicornhelpdesk.netlify.app)
-- 🍜 Front end Developer & UI/UX Designer for local start-up company [MR.VANS](https://mrvans.vn)
+- 🍜 Front end Developer & UI/UX Designer for local start-up company [MR.VANS](http://mrvans.vn)
+-  Front end Developer & UI/UX Designer for local restaurant [MAFA GR(OUP](http://mafagroup.vn)
 - 💬 Currently follow JavaScript ecosystem (VueJS, NodeJS, and ReactJS in the future)
 
 ##### BIO
